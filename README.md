@@ -1,6 +1,6 @@
 # AES_in_CBC_mode_for_microcontrollers
 
-This repository contains code that would allow you to easily integrate the AES encryption algorithm in CBC mode to your project.
+This repository contains code that would enable you to easily integrate the AES encryption algorithm in CBC mode to your project.
 
 You can also get this code from SourceForge: https://sourceforge.net/projects/aes-in-cbc-mode-for-mcus/
 
