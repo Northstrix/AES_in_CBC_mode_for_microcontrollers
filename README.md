@@ -1,4 +1,4 @@
-# Serpent_in_CBC_mode_for_microcontrollers
+# AES_in_CBC_mode_for_microcontrollers
 
 This repository contains code that would allow you to easily integrate the AES encryption algorithm in CBC mode to your project.
 
